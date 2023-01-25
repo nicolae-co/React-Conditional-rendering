@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Karla", sans-serif;
+}
+
+button{
+  padding: 4px;
+  margin: 2px;
+  font-weight: 600;
+}
